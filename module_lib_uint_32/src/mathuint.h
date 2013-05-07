@@ -4,4 +4,3 @@
 // LICENSE.txt and at <http://github.xcore.com/>
 
 extern unsigned int sqrtuint(unsigned int x);
-extern unsigned hypot(int x, int y);
